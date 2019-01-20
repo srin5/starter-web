@@ -10,3 +10,7 @@ adding second informaiion
 adding 3rd information
 
 adding more information after adding the file to staging area
+
+## This will be in staging area
+
+This info will be in unstaged area
