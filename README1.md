@@ -6,3 +6,5 @@ for simple understanding
 adding second informaiion
 
 ## ITS BEEN CREATED FOR TESTING DIFF AND MERGE
+
+adding 3rd information
