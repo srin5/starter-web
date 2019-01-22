@@ -10,3 +10,5 @@ Copyright 2019 all new new check
 information
 
 Editing readme file just for fun
+
+editing for rebase from myfeature branch too
