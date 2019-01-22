@@ -12,3 +12,5 @@ information
 Editing readme file just for fun
 
 editing for rebase from myfeature branch too
+
+Test editing from master
